@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+body {
+  margin: 0;
+  font-size: 100%;
+}
+h1 {
+  font-family: 'Monoton', cursive;
+  text-align: center; 
+}
+.content {
+margin:0px;
+}
+.mydiv {
+  margin-top:1px;
+  text-align: center;
+}
+.myimg{ 
+width:24%;
+cursor: pointer;
+}
+button{
+  width: 80px;
+  
+}
+#mydiv2{
+  text-align: center;
+}
+
+footer{
+  color: black;
+  text-align:center;
+  font-style: italic;
+  margin-bottom: 10%;
+}
